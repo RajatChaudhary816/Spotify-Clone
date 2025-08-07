@@ -1,0 +1,51 @@
+.border{
+    border: 2px solid red;
+}
+.flex{
+    display: flex;
+}
+.alignitems{
+    align-items: center;
+}
+.justifycontent{
+    justify-content: center;
+}
+.bgblack{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.bggrey{
+    background-color: #121212;
+}
+.pd1{
+    padding:14px 0px 14px 14px;
+}
+.radius{
+    border-radius: 8px;
+}
+/* For modern browsers like Chrome, Edge */
+::-webkit-scrollbar {
+  width: 8px; /* You can make it thinner/thicker */
+  height: 8px; /* For horizontal scrollbars */
+  background-color: #000000; /* Black background */
+}
+
+/* Track (area behind the thumb) */
+::-webkit-scrollbar-track {
+  background: #000000; /* Matches the dark theme */
+  border-radius: 4px;
+}
+
+/* Thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #2A2A2A; /* Slightly visible dark grey */
+  border-radius: 4px;
+}
+
+/* Hide scrollbar buttons (top/bottom arrows) */
+::-webkit-scrollbar-button {
+  display: none;
+  height: 0;
+  width: 0;
+}
+
