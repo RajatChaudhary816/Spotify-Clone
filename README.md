@@ -16,7 +16,7 @@ JavaScript-driven interactivity for UI controls
 
 Demo :
 
-Uploading Spotifyclone.mp4…
+https://github.com/user-attachments/assets/0617031b-ff05-42e3-9977-11131a8fc6d9
 
 Installation
 To run this project locally:
