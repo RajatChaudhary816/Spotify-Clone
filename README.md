@@ -14,9 +14,9 @@ Built using CSS Flexbox and Grid for layout
 
 JavaScript-driven interactivity for UI controls
 
-Demo
-Check out the live demo here:
-https://your-username.github.io/spotify-clone
+Demo :
+
+https://github.com/user-attachments/assets/1f906b5e-1716-45a5-94a6-13eb601a15c0
 
 Installation
 To run this project locally:
