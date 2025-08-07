@@ -16,7 +16,8 @@ JavaScript-driven interactivity for UI controls
 
 Demo :
 
-https://github.com/user-attachments/assets/1f906b5e-1716-45a5-94a6-13eb601a15c0
+https://github.com/user-attachments/assets/87ad5773-dcf9-451d-8452-8a10f2cc6620
+
 
 Installation
 To run this project locally:
